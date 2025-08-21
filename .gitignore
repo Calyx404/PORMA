@@ -1,0 +1,5 @@
+# Backend Virtual Environment and Dependencies
+app/backend/venv/
+
+# Frontend Dependencies
+app/frontend/node_modules
